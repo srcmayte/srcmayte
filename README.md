@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Steve
+- 👀 I’m interested in software engineering, DevOps, SOA, micro services, security, privacy, everything as a service, algorithmic crypto trading and data sovereignty.
+- 🌱 I’m always learning, and love learning about engineering and crypto. 
+- 💞️ I’m looking to collaborate on anything I find interesting. 
+- 📫 Find me on Twitter, let's chat
